@@ -13,9 +13,6 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
@@ -33,21 +30,14 @@
   <img src="https://img.shields.io/badge/-Machine%20Learning-green?style=for-the-badge"/>
 </div>
 
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-
 <h3 align="center">📬 How to reach me</h3>
 
 <div align="center">
-  <a href="mailto:roses.lucas@usp.br"><img src="https://img.shields.io/badge/-Machine%20Learning-green?style=for-the-badge"/></a>
-  
+  <a href="mailto:roses.lucas@usp.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="http://lattes.cnpq.br/5033779011334208"><img src="https://img.shields.io/badge/-Lattes-blue?style=for-the-badge&logo=GitBook&logoColor=white&"/></a>
+  <a href="https://github.com/fredgrub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://gitlab.com/firelessinaniree"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
 </div>
-
-[![Gmail badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/diogorodrigues02/)
-
-- **emails**: roses.lucas@usp.br or roses.lucas404@gmail.com.
-
-
-
 
 <!---
 fredgrub/fredgrub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
